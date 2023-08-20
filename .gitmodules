@@ -1,0 +1,6 @@
+[submodule "third-party/libconfig"]
+	path = third-party/libconfig
+	url = https://github.com/hyperrealm/libconfig
+[submodule "third-party/libzmq"]
+	path = third-party/libzmq
+	url = https://github.com/zeromq/libzmq
