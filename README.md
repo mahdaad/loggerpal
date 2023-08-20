@@ -1,6 +1,4 @@
-# Loggerpal - A Fast and Flexible Logging System
-
-![Cool image of Loggerpal](docs/images/img.png "Cool image of Loggerpal")
+# Loggerpal - Homogeneous Asymmetric Logging Layer
 
 Loggerpal is an open-source logging system designed for services that require efficient and flexible logging capabilities. It provides a high-performance solution for receiving and managing logs using the UDP protocol. Loggerpal allows users to send logs as "Atoms," which are structured log entries that contain various metadata and can be linked together to track the flow within a system.
 
