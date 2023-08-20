@@ -1,0 +1,12 @@
+version: "3.10"
+
+services:
+  watchlog:
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - "1200:1200/udp"
+      - "5555:5555"
+      - "5556:5556"
+      - "1234:1234"
+    restart: always
